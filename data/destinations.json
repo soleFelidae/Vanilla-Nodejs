@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Danau Poso",
+        "region": "Poso",
+        "category": "danau"
+    },
+    {
+        "id": 2,
+        "name": "Pantai Tanjung Karang",
+        "region": "Donggala",
+        "category": "pantai"
+    },
+    {
+        "id": 3,
+        "name": "Kepulauan Togean",
+        "region": "Tojo Una-Una",
+        "category": "bahari"
+    },
+    {
+        "id": 4,
+        "name": "Taman Nasional Lore Lindu",
+        "region": "Sigi",
+        "category": "alam"
+    },
+    {
+        "id": 5,
+        "name": "Pantai Talise",
+        "region": "Palu",
+        "category": "pantai"
+    }
+]
